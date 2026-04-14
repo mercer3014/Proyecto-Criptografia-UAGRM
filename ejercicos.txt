@@ -1,0 +1,15 @@
+Grupo 10:
+1.-
+Analizador de vectores unitarios: Implican un módulo que demuestra cómo el código de vectores unitarios como A/A y B/A se evalúan en las columnas de la matriz clave.
+
+2.-
+Calcular el máximo factor común entre las columnas de la matriz clave determinante para hallar SKV-1 y la entidad 27 y lograr una solución para todos que aplique determinante para hallar SKV-1 y la entidad 27.
+
+3.-
+Simulador de Análisis sobre una matriz (Vector Cargo) para recuperar la clave.
+
+4.-
+Vectores a Módulo 9: Implican una ventaja del algoritmo que trabaje en módulo 9 para implementar el código de bloque en el sistema de vector.
+
+5.-
+Implementador de Cinta Matriz de Algoritmo lineal: El usuario podrá modificar una matriz clave simbólica (como O(AY)O) y el sistema debe verificar que la matriz sea invertible en el módulo de trabajo antes de proceder a la multiplicación matricial.
